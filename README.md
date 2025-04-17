@@ -1,2 +1,2 @@
-# jkaroly.astro.github.io
+# Janik-K.github.io
 Janik Website
